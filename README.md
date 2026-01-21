@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alvin</h1>
-<h3 align="center">Front End Developer | AI Prompt</h3>
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alvin+%F0%9F%91%8B;Web+Developer;Laravel+%7C+PHP+%7C+JavaScript;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
+</h1>
+<h3 align="center">Front End Developer | AI Prompt</h3>
 
 ---
 
