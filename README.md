@@ -42,3 +42,5 @@
 <p align="center">
   <i>"Code. Learn. Build. Improve."</i> ⚡
 </p>
+
+![snake gif](https://github.com/alvindevelop/alvindevelop/blob/output/github-contribution-grid-snake.svg)
