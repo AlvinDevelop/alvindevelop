@@ -6,10 +6,10 @@
 ---
 
 ### 🚀 About Me
-- 💻 Passionate in **Web Development & System Design**
-- 🌱 Currently learning **Backend, Cloud, & Automation**
-- 🧠 Interested in **Web Apps, Bots, and Data-driven Systems**
-- 🎯 Goal: Build impactful and scalable digital solutions
+- 💻 Junior **Front-End Developer** with a strong interest in building clean and responsive user interfaces
+- 🌱 Currently focusing on learning **HTML, CSS, JavaScript, and modern front-end frameworks**
+- 🎨 Enjoy turning designs into interactive and user-friendly web experiences
+- 🎯 Goal: Continuously improve my front-end skills and grow into a professional web developer
 
 ---
 
