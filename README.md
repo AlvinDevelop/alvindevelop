@@ -43,4 +43,5 @@
   <i>"Code. Learn. Build. Improve."</i> ⚡
 </p>
 
-![snake gif](https://github.com/alvindevelop/alvindevelop/blob/output/github-contribution-grid-snake.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Alvin%20Develop&fontSize=40&animation=fadeIn" />
+
