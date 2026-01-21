@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin</h1>
-<h3 align="center">Web Developer | Tech Enthusiast | Problem Solver</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvindevelop&label=Profile%20views&color=0e75b6&style=flat" alt="alvindevelop" />
-</p>
+<h3 align="center">Front End Developer | AI Prompt</h3>
 
 ---
 
@@ -17,24 +13,16 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,python,mysql,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvindevelop&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvindevelop&theme=tokyonight" height="165"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,vscode" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
-- 🔹 **Sistem Informasi Berbasis Web**
-- 🔹 **Automation & Chatbot**
-- 🔹 **Academic & Research Projects**
-- 🔹 **Cloud & AWS Labs**
+- 🔹 **Website Portofolio**
+- 🔹 **Landing Page**
+- 🔹 **Company Profile**
+- 🔹 **AI Agent Chatbot**
 
 > *More projects coming soon...*
 
