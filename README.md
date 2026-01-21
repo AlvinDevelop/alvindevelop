@@ -1,58 +1,57 @@
-# 👋 Hi, I'm 🔧Alvin
+# 👋 Hi, I'm 🔧NamaKamu
 
-💻 **🔧Role kamu** | 🚀 **Tech Enthusiast** | 🌱 **Always Learning**
+🎨 **Front End Developer**  
+💻 HTML • CSS • JavaScript • Bootstrap  
 
-Saya adalah seorang **🔧profesi / mahasiswa / developer** yang tertarik pada:
-- 🔧 Bidang utama (contoh: Web Development, Data, Mobile, AI)
-- 🔧 Teknologi favorit
-- 🔧 Problem solving & belajar hal baru
+Saya adalah **Front End Developer** yang fokus membangun tampilan website yang:
+- Responsif
+- User-friendly
+- Clean & simple
+
+Saya **tidak menggunakan framework frontend** (seperti React/Vue), dan lebih menekankan pada **fundamental front end**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![HTML](https://img.shields.io/badge/-html-000?&logo=html)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- ⚙️ **JavaScript (Vanilla JS)**
+- 🅱️ **Bootstrap**
+- 🧰 **Git & GitHub**
 
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+---
+
+## 📂 What I Do
+
+- Convert design ke HTML & CSS
+- Membuat website responsive
+- DOM manipulation dengan JavaScript
+- Layouting cepat menggunakan Bootstrap
+- Fokus pada UI & UX dasar
+
+---
+
+## 🚀 Projects
+
+- 🔹 **[Nama Project](link repo)** — Website statis HTML, CSS, JS
+- 🔹 **[Nama Project](link repo)** — Landing page Bootstrap
+- 🔹 **[Nama Project](link repo)** — Interactive UI dengan JavaScript
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=🔧usernameGitHub&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=🔧usernameGitHub&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=🔧usernameGitHub&show_icons=true&theme=default)
 
 ---
 
-## 🔥 GitHub Streak
+## 📫 Contact
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=🔧usernameGitHub&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🔥 **[Nama Project](link repo)** — deskripsi singkat
-- 🔥 **[Nama Project](link repo)** — deskripsi singkat
-- 🔥 **[Nama Project](link repo)** — deskripsi singkat
-
----
-
-## 📫 Connect With Me
-
+- 📧 Email: 🔧email
 - 💼 LinkedIn: 🔧link
 - 🌐 Portfolio: 🔧link
-- 📧 Email: 🔧email
 
 ---
 
-⭐ *Feel free to explore my repositories and give a star if you like them!*
+⭐ Terima kasih sudah mengunjungi profile saya!
