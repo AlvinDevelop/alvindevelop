@@ -43,5 +43,5 @@
   <i>"Code. Learn. Build. Improve."</i> ⚡
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Alvin%20Develop&fontSize=40&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Alvin%20&fontSize=40&animation=fadeIn" />
 
