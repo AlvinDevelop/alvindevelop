@@ -12,7 +12,7 @@ Saya adalah seorang **🔧profesi / mahasiswa / developer** yang tertarik pada:
 ## 🛠️ Tech Stack
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-Html-000?&logo=Html)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 **Frameworks & Tools**
