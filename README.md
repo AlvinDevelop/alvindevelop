@@ -1,57 +1,54 @@
-# 👋 Hi, I'm 🔧NamaKamu
+<h1 align="center">Hi 👋, I'm Alvin</h1>
+<h3 align="center">Web Developer | Tech Enthusiast | Problem Solver</h3>
 
-🎨 **Front End Developer**  
-💻 HTML • CSS • JavaScript • Bootstrap  
-
-Saya adalah **Front End Developer** yang fokus membangun tampilan website yang:
-- Responsif
-- User-friendly
-- Clean & simple
-
-Saya **tidak menggunakan framework frontend** (seperti React/Vue), dan lebih menekankan pada **fundamental front end**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alvindevelop&label=Profile%20views&color=0e75b6&style=flat" alt="alvindevelop" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-- 🌐 **HTML5**
-- 🎨 **CSS3**
-- ⚙️ **JavaScript (Vanilla JS)**
-- 🅱️ **Bootstrap**
-- 🧰 **Git & GitHub**
+### 🚀 About Me
+- 💻 Passionate in **Web Development & System Design**
+- 🌱 Currently learning **Backend, Cloud, & Automation**
+- 🧠 Interested in **Web Apps, Bots, and Data-driven Systems**
+- 🎯 Goal: Build impactful and scalable digital solutions
 
 ---
 
-## 📂 What I Do
-
-- Convert design ke HTML & CSS
-- Membuat website responsive
-- DOM manipulation dengan JavaScript
-- Layouting cepat menggunakan Bootstrap
-- Fokus pada UI & UX dasar
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,python,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
-
-- 🔹 **[Nama Project](link repo)** — Website statis HTML, CSS, JS
-- 🔹 **[Nama Project](link repo)** — Landing page Bootstrap
-- 🔹 **[Nama Project](link repo)** — Interactive UI dengan JavaScript
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=🔧usernameGitHub&show_icons=true&theme=default)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvindevelop&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvindevelop&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 📫 Contact
+### 📂 Featured Projects
+- 🔹 **Sistem Informasi Berbasis Web**
+- 🔹 **Automation & Chatbot**
+- 🔹 **Academic & Research Projects**
+- 🔹 **Cloud & AWS Labs**
 
-- 📧 Email: 🔧email
-- 💼 LinkedIn: 🔧link
-- 🌐 Portfolio: 🔧link
+> *More projects coming soon...*
 
 ---
 
-⭐ Terima kasih sudah mengunjungi profile saya!
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://github.com/alvindevelop" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Improve."</i> ⚡
+</p>
